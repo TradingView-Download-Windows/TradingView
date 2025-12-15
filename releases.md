@@ -1,4 +1,4 @@
-# Setting Up TradingView Desktop App on Windows
+# Setting Up TradingView on Windows
 
 ## TradingView Installation Steps
 
